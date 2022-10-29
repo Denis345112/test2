@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="to_begin">Begin</string>
+    <string name="down">Down</string>
+    <string name="up">Up</string>
+    <string name="my_text">Hello World</string>
+</resources>
